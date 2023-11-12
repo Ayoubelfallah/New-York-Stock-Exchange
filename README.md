@@ -1,1 +1,1 @@
-# New-York-Stock-Exchange
+Ce projet a pour objectif de construire un modèle de prédiction du cours de clôture en bourse en exploitant des données financières. L'idée centrale est d'utiliser un ensemble de caractéristiques spécifiques, à savoir Low (plus bas), High (plus haut), Open (ouverture), et Earnings Per Share (Bénéfice par action), pour élaborer une prédiction précise du cours de clôture des titres.
